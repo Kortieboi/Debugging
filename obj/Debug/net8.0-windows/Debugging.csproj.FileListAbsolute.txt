@@ -1,0 +1,16 @@
+N:\Debugging\Debugging\bin\Debug\net8.0-windows\Debugging.exe
+N:\Debugging\Debugging\bin\Debug\net8.0-windows\Debugging.deps.json
+N:\Debugging\Debugging\bin\Debug\net8.0-windows\Debugging.runtimeconfig.json
+N:\Debugging\Debugging\bin\Debug\net8.0-windows\Debugging.dll
+N:\Debugging\Debugging\bin\Debug\net8.0-windows\Debugging.pdb
+N:\Debugging\Debugging\obj\Debug\net8.0-windows\Debugging.Form1.resources
+N:\Debugging\Debugging\obj\Debug\net8.0-windows\Debugging.csproj.GenerateResource.cache
+N:\Debugging\Debugging\obj\Debug\net8.0-windows\Debugging.GeneratedMSBuildEditorConfig.editorconfig
+N:\Debugging\Debugging\obj\Debug\net8.0-windows\Debugging.AssemblyInfoInputs.cache
+N:\Debugging\Debugging\obj\Debug\net8.0-windows\Debugging.AssemblyInfo.cs
+N:\Debugging\Debugging\obj\Debug\net8.0-windows\Debugging.csproj.CoreCompileInputs.cache
+N:\Debugging\Debugging\obj\Debug\net8.0-windows\Debugging.dll
+N:\Debugging\Debugging\obj\Debug\net8.0-windows\refint\Debugging.dll
+N:\Debugging\Debugging\obj\Debug\net8.0-windows\Debugging.pdb
+N:\Debugging\Debugging\obj\Debug\net8.0-windows\Debugging.genruntimeconfig.cache
+N:\Debugging\Debugging\obj\Debug\net8.0-windows\ref\Debugging.dll
