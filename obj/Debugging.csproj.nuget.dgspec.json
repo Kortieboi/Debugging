@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "N:\\Debugging\\Debugging\\Debugging.csproj": {}
+    "C:\\Users\\Administration\\Desktop\\SYSTEM\\Debugging\\Debugging.csproj": {}
   },
   "projects": {
-    "N:\\Debugging\\Debugging\\Debugging.csproj": {
+    "C:\\Users\\Administration\\Desktop\\SYSTEM\\Debugging\\Debugging.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "N:\\Debugging\\Debugging\\Debugging.csproj",
+        "projectUniqueName": "C:\\Users\\Administration\\Desktop\\SYSTEM\\Debugging\\Debugging.csproj",
         "projectName": "Debugging",
-        "projectPath": "N:\\Debugging\\Debugging\\Debugging.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "N:\\Debugging\\Debugging\\obj\\",
+        "projectPath": "C:\\Users\\Administration\\Desktop\\SYSTEM\\Debugging\\Debugging.csproj",
+        "packagesPath": "C:\\Users\\Administration\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Administration\\Desktop\\SYSTEM\\Debugging\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Administration\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
