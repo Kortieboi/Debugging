@@ -24,7 +24,7 @@ namespace Debugging
             else
             {
                 listBox1.Text = task;
-                taskTextBox.Text = "asdasdasdasdasda";
+                taskTextBox.Text = "wtf";
             }
         }
 
